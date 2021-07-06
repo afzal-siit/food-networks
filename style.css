@@ -6,10 +6,15 @@ h1{
   
     font-size: 50px;
     font-weight: 700;
+    margin-bottom:-50px;
+    
 }
 h2{
-    font-size: 40px;
+    font-size: 35px;
     color: gray;
+}
+.pra{
+    margin-top: 50px;
 }
 .orange-color{
     color: orange;
@@ -17,11 +22,13 @@ h2{
 .flaxiable{
     display: flex;
     margin-bottom: 150px;
+    margin-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
     
 }
 .half-width{
     width: 50%;
-    margin-top: 20px;
     padding-left: 20px;
     padding-right: 50px;
 }
