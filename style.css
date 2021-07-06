@@ -6,7 +6,7 @@ h1{
   
     font-size: 50px;
     font-weight: 700;
-    margin-bottom:-50px;
+    margin-bottom:-30px;
     
 }
 h2{
@@ -14,7 +14,12 @@ h2{
     color: gray;
 }
 .pra{
-    margin-top: 50px;
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+#myself{
+    margin-top: 10px;
+    margin-bottom: 30px;
 }
 .orange-color{
     color: orange;
