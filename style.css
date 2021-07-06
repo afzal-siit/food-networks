@@ -6,11 +6,17 @@ h1{
     font-size: 50px;
     font-weight: 700;
 }
+h2{
+    font-size: 40px;
+    color: gray;
+}
 .orange-color{
     color: orange;
 }
 .flaxiable{
     display: flex;
+    margin-bottom: 150px;
+    
 }
 .half-width{
     width: 50%;
@@ -24,4 +30,15 @@ h1{
     padding: 10px 40px;
     border-radius: 30px;
     color: white;
+}
+.text-padding{
+    margin: 20px;
+    padding: 40px;
+}
+.backgroud1{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+}
+.myphoto{
+   width: 500px;
 }
